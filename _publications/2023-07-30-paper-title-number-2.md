@@ -1,5 +1,5 @@
 ---
-title: "Firm and Worker Effects of an Affirmative Action Labor Market Policy: Evidence from South Africa"
+title: "Firm and Worker Effects of an Affirmative Action Labor Market Policy: Evidence from South Africa, with Krisztina Orban"
 collection: Work in progress
 category: manuscripts
 #permalink: /publication/2010-10-01-paper-title-number-2
