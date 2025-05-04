@@ -13,7 +13,7 @@ title                    : "Dane Brink"
 title_separator          : "-"
 name                     : &name "Dane"
 description              : &description "Economics PhD Student at the University of Michigan. Interested in Trade, Industrial Organization, and Firm behaviour."
-url                      : https://danebrink.github.io"
+url                      : "https://danebrink.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
