@@ -7,7 +7,6 @@ venue: 'Work in Progress'
 ---
 
 **Coauthor:** [Krisztina Orban][ko].
-<br>
 
 [ko]: https://sites.google.com/site/krisztinaorban/home
 
