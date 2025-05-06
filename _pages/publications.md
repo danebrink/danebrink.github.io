@@ -1,13 +1,16 @@
 ---
-layout: page
-title: Publications
+layout: archive
+title: "Publications"
 permalink: /publications/
+author_profile: true
 ---
 
-### Working Papers
-- **"Firm and Worker Effects of an Affirmative Action Labor Market Policy: Evidence from South Africa"**, with [Krisztina Orban](https://sites.google.com/site/krisztinaorban/home?authuser=0)
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
 
-### Work in progress
-- **"Local frictions and technology diffusion: Evidence from South Africa's Energy Crises"**
+{% include base_path %}
 
----
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
