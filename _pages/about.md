@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an Economics PhD student at the University of Michigan, Ann Arbor. My interests lie in Trade and Industrial Organization.
+Welcome to my website! I am an Economics PhD student at the University of Michigan, Ann Arbor. My interests lie in Trade and applied econometrics.
 
-Prior to the PhD program, I completed my undergraduate and master's degrees in econometrics at the University of Pretoria and was a predoctoral fellow at Yale University. 
+Before the PhD program, I completed my undergraduate and master's degrees in econometrics at the University of Pretoria and was a predoctoral fellow at Yale University. I have also worked as a research assistant at the National Treasury of South Africa and [Economic Research Southern Africa](https://econrsa.org/), where I helped build the matched employer-employee and customs tax database. If you want more information on using this data, please feel free to contact me or the [program coordinators](https://sa-tied.wider.unu.edu/data). 
 
-I have extensive experience in using and creating South African tax administrative data. I am looking to partner with local organizations in South Africa to help facilitate and pool data resources for impactful research.
+I am looking to partner with local organisations in South Africa to help facilitate and pool data resources for impactful research.
