@@ -15,14 +15,14 @@ name                     : &name "Dane"
 description              : &description "Economics PhD Student at the University of Michigan. Interested in Trade, Industrial Organization, and Firm behaviour."
 url                      : "https://danebrink.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/danebrink"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_picture.jpg"
+  avatar           : "630B0059.jpeg"
   name             : # ""
   pronouns         : # example: "she/her"  
   bio              : "Economics PhD Student at the University of Michigan."
