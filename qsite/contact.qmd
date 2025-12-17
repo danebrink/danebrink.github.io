@@ -1,9 +1,0 @@
----
-title: "Contact"
----
-
-## Contact
-
-- Email: ___
-- GitHub: https://github.com/danebrink
-- (Optional) Google Scholar / ORCID / Twitter / LinkedIn

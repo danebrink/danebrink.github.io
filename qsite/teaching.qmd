@@ -1,8 +1,0 @@
----
-title: "Teaching"
----
-
-## Teaching
-
-- Econ ___: Topic, term, role
-- Office hours: ___
