@@ -2,12 +2,11 @@
 title: "Research"
 ---
 
-## Research
+### Published Work
 
-### Working topics
-- Electricity reliability and international trade
-- Firm dynamics and technology adoption
-- Spatial misallocation and infrastructure
+### Working Papers
 
-### Papers / drafts
-- Add links to PDFs in `/files/` or external links here
+### Works in progress
+- Firm and Worker Effects of an Affirmative Action Labor Market Policy: Evidence from South Africa (with Krisztina Orban)
+- Electricity Infrastructure and Spatial Development (with Wei Xiang)
+- Electricity Infrastructure and International Trade 
