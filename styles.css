@@ -1,0 +1,20 @@
+/* Eggshell background */
+body {
+  background: #f6f1e7; /* eggshell */
+}
+
+/* Keep the main content readable (optional but recommended) */
+#quarto-content {
+  background: transparent;
+}
+
+/* Optional: make the navbar match the eggshell vibe */
+.navbar {
+  background: #f6f1e7 !important;
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+}
+
+/* Optional: soften code blocks so they don’t look stark */
+pre, code {
+  background: rgba(0,0,0,0.035);
+}
