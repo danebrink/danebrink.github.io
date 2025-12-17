@@ -10,3 +10,6 @@ title: "Research"
 - Firm and Worker Effects of an Affirmative Action Labor Market Policy: Evidence from South Africa (with [Krisztina Orban](https://sites.google.com/site/krisztinaorban/home?authuser=0))
 - Electricity Infrastructure and Spatial Development (with [Wei Xiang](https://sites.google.com/view/wei-xiang))
 - Electricity Infrastructure and International Trade 
+
+### Pre-doctoral Work
+- Total factor productivity in South African manufacturing firms 2010–17: CIT-IRP5 panel v4.0 (with [Friedrich Kreuser](https://www.cfkreuser.com/))
