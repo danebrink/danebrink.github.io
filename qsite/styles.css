@@ -1,11 +1,20 @@
-/* Clean typography + less visual noise */
-body { line-height: 1.6; }
-h1, h2, h3 { letter-spacing: -0.01em; }
-.navbar-brand { font-weight: 600; }
+/* Eggshell background */
+body {
+  background: #f6f1e7; /* eggshell */
+}
 
-/* Links: understated but clear */
-a { text-decoration: none; }
-a:hover { text-decoration: underline; }
+/* Keep the main content readable (optional but recommended) */
+#quarto-content {
+  background: transparent;
+}
 
-/* Slightly narrower content for readability on wide screens */
-.page-columns { max-width: 980px; margin: 0 auto; }
+/* Optional: make the navbar match the eggshell vibe */
+.navbar {
+  background: #f6f1e7 !important;
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+}
+
+/* Optional: soften code blocks so they don’t look stark */
+pre, code {
+  background: rgba(0,0,0,0.035);
+}
