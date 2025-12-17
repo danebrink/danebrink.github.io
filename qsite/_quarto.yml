@@ -16,5 +16,8 @@ website:
 
 format:
   html:
-    theme: litera
-    toc: true
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
