@@ -2,6 +2,4 @@
 title: "Teaching"
 ---
 
-\textbf{University of Michigan}
-\textbf{Fall 2025}
-Econ 251, Introductory Econometrics and Statistics, TA for Dr Asenka Asenova.
+- **University of Michigan**, **Fall 2025** — *Econ 251 (Introductory Econometrics and Statistics)*, TA for Dr. Asenka Asenova.
