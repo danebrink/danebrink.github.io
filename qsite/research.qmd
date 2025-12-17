@@ -8,5 +8,5 @@ title: "Research"
 
 ### Works in progress
 - Firm and Worker Effects of an Affirmative Action Labor Market Policy: Evidence from South Africa (with Krisztina Orban)
-- Electricity Infrastructure and Spatial Development (with Wei Xiang)
+- Electricity Infrastructure and Spatial Development (with [Wei Xiang])
 - Electricity Infrastructure and International Trade 
