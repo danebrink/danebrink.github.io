@@ -1,0 +1,12 @@
+---
+title: "Home"
+---
+
+## Dane Brink
+
+Economics PhD (University of Michigan). International trade, infrastructure, firm dynamics.
+
+- Current: South Africa electricity reliability and firm trade margins
+- Methods: spatial data, micro panels, quantitative trade
+
+[Research](research.qmd) · [Teaching](teaching.qmd) · [Contact](contact.qmd)
