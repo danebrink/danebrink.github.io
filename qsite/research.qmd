@@ -15,8 +15,9 @@ listing:
 ### Works in progress
 - Firm and Worker Effects of an Affirmative Action Labor Market Policy: Evidence from South Africa (with [Krisztina Orban](https://sites.google.com/site/krisztinaorban/home?authuser=0))
 - Electricity Infrastructure and Spatial Development (with [Wei Xiang](https://sites.google.com/view/wei-xiang))
-- Electricity Infrastructure and International Trade 
+- Electricity Infrastructure and International Trade
 
 ### Pre-doctoral Work
 
-
+::: {#listing}
+:::
