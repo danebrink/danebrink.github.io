@@ -7,8 +7,4 @@ title: "Home"
 
 Welcome! I am a PhD student in Economics at the **University of Michigan**. My interests lie in **International Trade, Macroeconomics, and Applied Econometrics**. Before starting my PhD, I helped build the administrative tax database at the National Treasury of South Africa, where I worked with the UN, World Bank, and Economic Research Southern Africa. I also spent a year at Yale University as part of the Tobin Centre Predoc program.
 
-::: {.text-center}
-![](images/University-of-Michigan.jpg){style="width: 270px; max-width: 60%; border-radius: 9999px; margin: 16px auto 22px auto; display: block;"}
-:::
-
 
