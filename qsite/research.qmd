@@ -8,15 +8,16 @@ page-layout: full
 ### Working Papers
 
 ### Works in progress
-- Firm and Worker Effects of an Affirmative Action Labor Market Policy: Evidence from South Africa (with [Krisztina Orban](https://sites.google.com/site/krisztinaorban/home?authuser=0))
-- Electricity Infrastructure and Spatial Development (with [Wei Xiang](https://sites.google.com/view/wei-xiang))
-- Electricity Infrastructure and International Trade
+- **Electricity Infrastructure and International Trade**
+- **Electricity Infrastructure and Spatial Development**
+<span style="opacity:0.8;">with <a href="https://sites.google.com/view/wei-xiang" target="_blank" rel="noopener">Wei Xiang</a></span>
+- **Firm and Worker Effects of an Affirmative Action Labor Market Policy: Evidence from South Africa**
+<span style="opacity:0.8;">with <a href="https://sites.google.com/site/krisztinaorban/home?authuser=0" target="_blank" rel="noopener">Krisztina Orban</a></span>
 
 ### Pre-doctoral Work
 
-- **Total factor productivity in South African manufacturing firms 2010–17: CIT-IRP5 panel v4.0**  
-  <span style="opacity:0.8;">with <a href="https://www.cfkreuser.com/" target="_blank" rel="noopener">Friedrich Kreuser</a></span> [[Paper](files/tfp-manufacturing-sa.pdf)]
+- **Total factor productivity in South African manufacturing firms 2010–17: CIT-IRP5 panel v4.0**
+<span style="opacity:0.8;">with <a href="https://www.cfkreuser.com/" target="_blank" rel="noopener">Friedrich Kreuser</a></span> [[Paper](files/tfp-manufacturing-sa.pdf)]
 
-  <details>
-  <summary><strong>[+abstract]</strong></summary> We update Kreuser and Newman’s (2018) total factor productivity estimates for the South African manufacturing sector using administrative data from 2009–17. We use standard implementations of the Ackerberg et al. (2015) and Wooldridge (2009) productivity estimators and introduce an implementation of the former that converges to elasticities inside the unit interval more consistently. Limited productivity growth is found for the period 2010–17, with the majority of variance in sectoral productivity attributable to variance in allocative efficiency. We find that industries that have higher share sales allocated to more productive firms are generally more capital intensive and have significantly higher capital elasticities of output while only having slightly higher labour elasticities of output.</details>
+  <details><summary><strong>[+abstract]</strong></summary> We update Kreuser and Newman’s (2018) total factor productivity estimates for the South African manufacturing sector using administrative data from 2009–17. We use standard implementations of the Ackerberg et al. (2015) and Wooldridge (2009) productivity estimators and introduce an implementation of the former that converges to elasticities inside the unit interval more consistently. Limited productivity growth is found for the period 2010–17, with the majority of variance in sectoral productivity attributable to variance in allocative efficiency. We find that industries that have higher share sales allocated to more productive firms are generally more capital intensive and have significantly higher capital elasticities of output while only having slightly higher labour elasticities of output.</details>
 
