@@ -3,10 +3,6 @@ title: "Research"
 page-layout: full
 ---
 
-### Published Work
-
-### Working Papers
-
 ### Works in progress
 - **Electricity Infrastructure and International Trade**
 - **Electricity Infrastructure and Spatial Development**
