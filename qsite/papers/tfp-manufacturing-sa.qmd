@@ -2,9 +2,15 @@
 title: "Total factor productivity in South African manufacturing firms 2010–17: CIT-IRP5 panel v4.0"
 date: 2021-12-01
 status: "Pre-doctoral Work"
+format:
+  html:
+    title-block-style: none
 ---
+# Total factor productivity in South African manufacturing firms 2010–17: CIT-IRP5 panel v4.0
 
-**Coauthor:** [Friedrich Kreuser](https://www.cfkreuser.com/)
+**Coauthor:** [Friedrich Kreuser](https://www.cfkreuser.com/)  
+
+**Date:** December 1, 2021
 
 [PDF](../files/tfp-manufacturing-sa.pdf){.btn .btn-sm .btn-outline-primary}
 
