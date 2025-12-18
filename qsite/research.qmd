@@ -8,8 +8,8 @@ listing:
   type: table
   fields: [title]
   field-links: [title]
-  field-display-names: false
 ---
+
 
 ### Published Work
 
