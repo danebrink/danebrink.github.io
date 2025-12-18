@@ -6,7 +6,7 @@ listing:
   contents: papers
   sort: "date desc"
   type: default
-  link-to: true
+  link-to: body
 ---
 
 ### Published Work
