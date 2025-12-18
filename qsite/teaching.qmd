@@ -3,4 +3,4 @@ title: "Teaching"
 ---
 
 - **University of Michigan**, **Fall 2025** — *Econ 251 (Introductory Econometrics and Statistics)*, TA for Dr. Asenka Asenova.
-- **University of Pretoria**, **2018-2019** - *EKN 214 & 234, Intermediate Macroeconomics*, TA for Dr Heinrich Bohlmann.
+- **University of Pretoria**, **2018-2019** - *EKN 214 & 234 (Intermediate Macroeconomics I & II)*, TA for Dr Heinrich Bohlmann.
