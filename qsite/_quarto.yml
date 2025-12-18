@@ -4,6 +4,7 @@ project:
 website:
   title: "Dane Brink"
   navbar:
+    logo: images/University-of-Michigan.jpg
     left:
       - text: Home
         href: index.qmd
