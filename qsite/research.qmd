@@ -1,5 +1,11 @@
 ---
 title: "Research"
+page-layout: full
+listing:
+  contents: papers
+  sort: "date desc"
+  type: default
+  link-to: true
 ---
 
 ### Published Work
@@ -12,4 +18,5 @@ title: "Research"
 - Electricity Infrastructure and International Trade 
 
 ### Pre-doctoral Work
-- Total factor productivity in South African manufacturing firms 2010–17: CIT-IRP5 panel v4.0 (with [Friedrich Kreuser](https://www.cfkreuser.com/))
+
+
