@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "Published Work\n\n\nWorking Papers\n\n\nWorks in progress\n\nFirm and Worker Effects of an Affirmative Action Labor Market Policy: Evidence from South Africa (with Krisztina Orban)\nElectricity Infrastructure and Spatial Development (with Wei Xiang)\nElectricity Infrastructure and International Trade\n\n\n\nPre-doctoral Work\n\nTotal factor productivity in South African manufacturing firms 2010–17: CIT-IRP5 panel v4.0 (with Friedrich Kreuser)"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Email: danebrnk@umich.edu\nGitHub"
+    "text": "University of Michigan, Fall 2025 — Econ 251 (Introductory Econometrics and Statistics), TA for Dr. Asenka Asenova.\nUniversity of Pretoria, 2018-2019 - EKN 214 & 234, Intermediate Macroeconomics, TA for Dr Heinrich Bohlmann."
   },
   {
     "objectID": "index.html",
@@ -21,10 +14,17 @@
     "text": "Welcome! I am a PhD student in Economics at the University of Michigan. My interests lie in International Trade, Macroeconomics, and Applied Econometrics. Before starting my PhD, I helped build the administrative tax database at the National Treasury of South Africa, where I worked with the UN, World Bank, and Economic Research Southern Africa. I also spent a year at Yale University as part of the Tobin Centre Predoc program."
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "University of Michigan, Fall 2025 — Econ 251 (Introductory Econometrics and Statistics), TA for Dr. Asenka Asenova.\nUniversity of Pretoria, 2018-2019 - EKN 214 & 234, Intermediate Macroeconomics, TA for Dr Heinrich Bohlmann."
+    "text": "Email: danebrnk@umich.edu\nGitHub"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Published Work\n\n\nWorking Papers\n\n\nWorks in progress\n\nFirm and Worker Effects of an Affirmative Action Labor Market Policy: Evidence from South Africa (with Krisztina Orban)\nElectricity Infrastructure and Spatial Development (with Wei Xiang)\nElectricity Infrastructure and International Trade\n\n\n\nPre-doctoral Work\n\nTotal factor productivity in South African manufacturing firms 2010–17: CIT-IRP5 panel v4.0 (with Friedrich Kreuser)"
   }
 ]

@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://danebrink.github.io/research.html</loc>
-    <lastmod>2025-12-18T00:07:38.326Z</lastmod>
-  </url>
-  <url>
-    <loc>https://danebrink.github.io/contact.html</loc>
-    <lastmod>2025-12-18T00:07:38.322Z</lastmod>
-  </url>
-  <url>
-    <loc>https://danebrink.github.io/index.html</loc>
-    <lastmod>2025-12-18T00:07:38.326Z</lastmod>
+    <loc>https://danebrink.github.io/papers/tfp-manufacturing-sa.html</loc>
+    <lastmod>2025-12-18T01:49:45.904Z</lastmod>
   </url>
   <url>
     <loc>https://danebrink.github.io/teaching.html</loc>
-    <lastmod>2025-12-18T00:07:38.326Z</lastmod>
+    <lastmod>2025-12-18T01:49:45.905Z</lastmod>
+  </url>
+  <url>
+    <loc>https://danebrink.github.io/index.html</loc>
+    <lastmod>2025-12-18T01:49:45.904Z</lastmod>
+  </url>
+  <url>
+    <loc>https://danebrink.github.io/contact.html</loc>
+    <lastmod>2025-12-18T01:49:45.901Z</lastmod>
+  </url>
+  <url>
+    <loc>https://danebrink.github.io/research.html</loc>
+    <lastmod>2025-12-18T01:49:45.904Z</lastmod>
   </url>
 </urlset>
