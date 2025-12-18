@@ -18,3 +18,10 @@ body {
 pre, code {
   background: rgba(0,0,0,0.035);
 }
+
+.navbar-brand img {
+  height: 32px;
+  width: auto;
+  margin-right: 10px;
+}
+
