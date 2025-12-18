@@ -2,6 +2,7 @@
 title: "Research"
 page-layout: full
 listing:
+  id: predoc-listing
   contents: papers
   sort: "date desc"
   type: default
@@ -19,5 +20,5 @@ listing:
 
 ### Pre-doctoral Work
 
-::: {#listing}
+::: {#predoc-listing}
 :::
