@@ -2,5 +2,5 @@
 title: "Contact"
 ---
 
-- Email: danebrnk@umich.edu
-- GitHub: https://github.com/danebrink
+- Email: [danebrink@umich.edu](mailto:danebrink@umich.edu)
+- [GitHub](https://github.com/danebrink)
