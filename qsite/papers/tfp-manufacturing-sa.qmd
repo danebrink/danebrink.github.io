@@ -2,10 +2,11 @@
 title: "Total factor productivity in South African manufacturing firms 2010–17: CIT-IRP5 panel v4.0"
 date: 2021-12-01
 status: "Pre-doctoral Work"
-coauthors: [Friedrich Kreuser](https://www.cfkreuser.com/)
 ---
 
-[PDF](./files/tfp-manufacturing-sa.pdf){.btn .btn-sm .btn-outline-primary}
+**Coauthor:** [Friedrich Kreuser](https://www.cfkreuser.com/)
+
+[PDF](../files/tfp-manufacturing-sa.pdf){.btn .btn-sm .btn-outline-primary}
 
 <details>
 <summary><strong>Abstract</strong> (click to expand)</summary>
@@ -13,4 +14,3 @@ coauthors: [Friedrich Kreuser](https://www.cfkreuser.com/)
 We update Kreuser and Newman’s (2018) total factor productivity estimates for the South African manufacturing sector using administrative data from 2009–17. We use standard implementations of the Ackerberg et al. (2015) and Wooldridge (2009) productivity estimators and introduce an implementation of the former that converges to elasticities inside the unit interval more consistently. Limited productivity growth is found for the period 2010–17, with the majority of variance in sectoral productivity attributable to variance in allocative efficiency. We find that industries that have higher share sales allocated to more productive firms are generally more capital intensive and have significantly higher capital elasticities of output while only having slightly higher labour elasticities of output.
 
 </details>
-
