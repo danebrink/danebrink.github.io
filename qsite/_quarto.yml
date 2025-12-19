@@ -12,8 +12,6 @@ website:
         href: research.qmd
       - text: Teaching
         href: teaching.qmd
-      - text: Contact
-        href: contact.qmd
 
 format:
   html:
