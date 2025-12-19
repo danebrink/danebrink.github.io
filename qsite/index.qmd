@@ -11,7 +11,7 @@ Welcome! I am a PhD student in Economics at the **University of Michigan**. My i
 :::
 
 ::: {.column width="42%" style="padding-left: 0px;"}
-![](images/image.jpg){style="width: 100%; height: auto; border-radius: 14px; box-shadow: 0 14px 34px rgba(0,0,0,0.12); display: block;"}
+![](images/image.jpg){style="width: 80%; height: auto; border-radius: 14px; box-shadow: 0 14px 34px rgba(0,0,0,0.12); display: block;"}
 :::
 
 :::
