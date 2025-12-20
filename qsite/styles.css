@@ -1,3 +1,7 @@
+/* =========================================================
+   Global look & feel
+   ========================================================= */
+
 /* Eggshell background */
 body {
   background: #f6f1e7; /* eggshell */
@@ -8,26 +12,59 @@ body {
   background: transparent;
 }
 
-/* Optional: make the navbar match the eggshell vibe */
+/* Navbar matches eggshell vibe */
 .navbar {
   background: #f6f1e7 !important;
   border-bottom: 1px solid rgba(0,0,0,0.08);
 }
 
-/* Optional: soften code blocks so they don’t look stark */
-pre, code {
+/* Soften code blocks so they don’t look stark */
+pre,
+code {
   background: rgba(0,0,0,0.035);
 }
 
+/* Navbar logo sizing */
 .navbar-brand img {
   height: 32px;
   width: auto;
   margin-right: 10px;
 }
 
+/* Paragraph justification (desktop/tablet) */
 p {
   text-align: justify;
   text-justify: inter-word;
 }
 
+/* On phones, justified text looks bad (huge gaps). Turn it off. */
+@media (max-width: 767.98px) {
+  p {
+    text-align: left;
+  }
+}
 
+
+/* =========================================================
+   Home page layout helpers (used by the Bootstrap row layout)
+   ========================================================= */
+
+.home-photo img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 14px; /* soft edges */
+  box-shadow: 0 14px 34px rgba(0,0,0,0.12);
+}
+
+/* Slightly lower the text on larger screens */
+.home-intro {
+  padding-top: 18px;
+}
+
+/* Add breathing room between text and image on desktop */
+@media (min-width: 768px) {
+  .home-photo {
+    padding-left: 28px;
+  }
+}
