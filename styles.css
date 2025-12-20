@@ -7,7 +7,7 @@ body {
   background: #f6f1e7; /* eggshell */
 }
 
-/* Keep the main content readable (optional but recommended) */
+/* Keep the main content readable */
 #quarto-content {
   background: transparent;
 }
@@ -45,54 +45,38 @@ p {
 }
 
 /* =========================================================
-   Home page layout helpers
+   Home page image (stacked under the paragraph)
+   Use in index.qmd:
+   ![](images/image.jpg){.home-photo}
    ========================================================= */
 
-/* If you use Markdown: ![](...){.home-photo}
-   this styles the image itself. */
+/* Primary: when you apply the class directly to the image */
 .home-photo {
   display: block;
-  width: 100%;
-  max-width: 520px;     /* adjust to taste */
-  height: auto;
-  border-radius: 14px;  /* soft edges */
+  width: min(900px, 100%);      /* responsive, but doesn't get absurdly wide */
+  height: auto;                  /* preserve aspect ratio */
+  margin: 18px auto 0 auto;      /* centered under the text */
+  border-radius: 14px;           /* soft edges */
   box-shadow: 0 14px 34px rgba(0,0,0,0.12);
 }
 
-/* If you use a wrapper div: <div class="home-photo"><img ...></div>
-   this also catches that case. */
+/* Fallback: if you instead wrap an <img> inside a .home-photo div */
 .home-photo img {
   display: block;
-  width: 100%;
+  width: min(900px, 100%);
   height: auto;
+  margin: 18px auto 0 auto;
   border-radius: 14px;
   box-shadow: 0 14px 34px rgba(0,0,0,0.12);
 }
 
-/* Slightly lower the text on larger screens */
-.home-intro {
-  padding-top: 18px;
-}
-
-/* Add breathing room between text and image on desktop */
-@media (min-width: 768px) {
-  .home-photo {
-    margin-left: auto;   /* keep it right-aligned in its column */
-    padding-left: 22px;  /* space between text column and image column */
-    margin-top: 12px;
-  }
-}
-
-/* Phone: stack + center. Also cancels any float that might exist. */
+/* Phone tweaks: keep it a bit smaller so it doesn’t dominate */
 @media (max-width: 767.98px) {
   .home-photo,
   .home-photo img {
-    float: none !important;
-    margin: 16px auto 0 auto !important;
-    max-width: 360px;    /* keeps it from dominating the screen */
-  }
-
-  .home-intro {
-    padding-top: 0;
+    width: 100%;
+    max-width: 360px;
+    margin: 16px auto 0 auto;
+    float: none !important; /* cancels any lingering float rules */
   }
 }
