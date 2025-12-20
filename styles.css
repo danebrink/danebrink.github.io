@@ -52,7 +52,7 @@ p {
 
 .home-photo {
   display: block;
-  max-width: 100%;
+  max-width: 70%;
   height: auto;
   margin: 18px auto 0 auto;
   border-radius: 14px; /* soft edges */
