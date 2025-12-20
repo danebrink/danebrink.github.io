@@ -2,13 +2,27 @@
 title: "Home"
 ---
 
+```{=html}
 <div class="row align-items-start g-4">
 
   <div class="col-12 col-md-7 order-2 order-md-1">
     <div class="home-intro">
-Welcome! I am a PhD student in Economics at the **University of Michigan**. My interests lie in **International Trade, Macroeconomics, and Spatial**. Before starting my PhD, I helped build the [administrative tax database](https://www.treasury.gov.za/research/NT-SDF/default.aspx) at the National Treasury of South Africa, where I worked with the UN, World Bank, and Economic Research Southern Africa. I also spent a year at Yale University as part of the Tobin Centre Predoc program.
+      <p>
+        Welcome! I am a PhD student in Economics at the <strong>University of Michigan</strong>.
+        My interests lie in <strong>International Trade, Macroeconomics, and Spatial</strong>.
+        Before starting my PhD, I helped build the
+        <a href="https://www.treasury.gov.za/research/NT-SDF/default.aspx">administrative tax database</a>
+        at the National Treasury of South Africa, where I worked with the UN, World Bank, and Economic Research Southern Africa.
+        I also spent a year at Yale University as part of the Tobin Centre Predoc program.
+      </p>
 
-[[Email](mailto:danebrnk@umich.edu)] [[GitHub](https://github.com/danebrink)] [[CV](files/Dane_Brink_CV.pdf)]
+      <p>
+        <a href="mailto:danebrnk@umich.edu">Email</a>
+        &nbsp;|&nbsp;
+        <a href="https://github.com/danebrink">GitHub</a>
+        &nbsp;|&nbsp;
+        <a href="files/Dane_Brink_CV.pdf">CV</a>
+      </p>
     </div>
   </div>
 
