@@ -2,20 +2,20 @@
 title: "Home"
 ---
 
-::: {.row .align-items-start .g-4}
+<div class="row align-items-start g-4">
 
-::: {.col-12 .col-md-7 .order-2 .order-md-1}
-<div class="home-intro">
+  <div class="col-12 col-md-7 order-2 order-md-1">
+    <div class="home-intro">
 Welcome! I am a PhD student in Economics at the **University of Michigan**. My interests lie in **International Trade, Macroeconomics, and Spatial**. Before starting my PhD, I helped build the [administrative tax database](https://www.treasury.gov.za/research/NT-SDF/default.aspx) at the National Treasury of South Africa, where I worked with the UN, World Bank, and Economic Research Southern Africa. I also spent a year at Yale University as part of the Tobin Centre Predoc program.
 
 [[Email](mailto:danebrnk@umich.edu)] [[GitHub](https://github.com/danebrink)] [[CV](files/Dane_Brink_CV.pdf)]
-</div>
-:::
+    </div>
+  </div>
 
-::: {.col-12 .col-md-5 .order-1 .order-md-2}
-<div class="home-photo">
-  <img src="images/image.jpg" alt="Dane Brink" />
-</div>
-:::
+  <div class="col-12 col-md-5 order-1 order-md-2">
+    <div class="home-photo">
+      <img src="images/image.jpg" alt="Dane Brink" />
+    </div>
+  </div>
 
-:::
+</div>
