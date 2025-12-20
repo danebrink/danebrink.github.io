@@ -45,38 +45,15 @@ p {
 }
 
 /* =========================================================
-   Home page image (stacked under the paragraph)
+   Home page image: centered, responsive, preserves aspect ratio
    Use in index.qmd:
    ![](images/image.jpg){.home-photo}
    ========================================================= */
 
-/* Primary: when you apply the class directly to the image */
 .home-photo {
   display: block;
-  width: min(900px, 100%);      /* responsive, but doesn't get absurdly wide */
-  height: auto;                  /* preserve aspect ratio */
-  margin: 18px auto 0 auto;      /* centered under the text */
-  border-radius: 14px;           /* soft edges */
-  box-shadow: 0 14px 34px rgba(0,0,0,0.12);
-}
-
-/* Fallback: if you instead wrap an <img> inside a .home-photo div */
-.home-photo img {
-  display: block;
-  width: min(900px, 100%);
+  max-width: 100%;
   height: auto;
   margin: 18px auto 0 auto;
-  border-radius: 14px;
-  box-shadow: 0 14px 34px rgba(0,0,0,0.12);
-}
-
-/* Phone tweaks: keep it a bit smaller so it doesn’t dominate */
-@media (max-width: 767.98px) {
-  .home-photo,
-  .home-photo img {
-    width: 100%;
-    max-width: 360px;
-    margin: 16px auto 0 auto;
-    float: none !important; /* cancels any lingering float rules */
-  }
+  border-radius: 14px; /* soft edges */
 }
