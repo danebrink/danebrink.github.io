@@ -37,13 +37,6 @@ p {
   text-justify: inter-word;
 }
 
-/* On phones, justified text looks bad (huge gaps). Turn it off. */
-@media (max-width: 767.98px) {
-  p {
-    text-align: left;
-  }
-}
-
 /* =========================================================
    Home page image: centered, responsive, preserves aspect ratio
    Use in index.qmd:
