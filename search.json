@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "papers/tfp-manufacturing-sa.html",
-    "href": "papers/tfp-manufacturing-sa.html",
-    "title": "Total factor productivity in South African manufacturing firms 2010–17: CIT-IRP5 panel v4.0",
-    "section": "",
-    "text": "2021-12-01\n\n\n\n\nTotal factor productivity in South African manufacturing firms 2010–17: CIT-IRP5 panel v4.0\nCoauthor: Friedrich Kreuser\nDate: December 1, 2021\nPDF\n\n\nAbstract (click to expand)\n\nWe update Kreuser and Newman’s (2018) total factor productivity estimates for the South African manufacturing sector using administrative data from 2009–17. We use standard implementations of the Ackerberg et al. (2015) and Wooldridge (2009) productivity estimators and introduce an implementation of the former that converges to elasticities inside the unit interval more consistently. Limited productivity growth is found for the period 2010–17, with the majority of variance in sectoral productivity attributable to variance in allocative efficiency. We find that industries that have higher share sales allocated to more productive firms are generally more capital intensive and have significantly higher capital elasticities of output while only having slightly higher labour elasticities of output."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "University of Michigan, Spring 2026: Econ 251 (Introductory Econometrics and Statistics), TA for Dr. Asenka Asenova.\nUniversity of Michigan, Fall 2025: Econ 251 (Introductory Econometrics and Statistics), TA for Dr. Asenka Asenova.\nUniversity of Pretoria, 2018-2019: EKN 214 & 234 (Intermediate Macroeconomics I & II), TA for Dr Heinrich Bohlmann."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "Welcome! I am a PhD student in Economics at the University of Michigan. My interests lie in International Trade, Macroeconomics, and Spatial. Before starting my PhD, I helped build the administrative tax database at the National Treasury of South Africa, where I worked with the UN, World Bank, and Economic Research Southern Africa. I also spent a year at Yale University as part of the Tobin Centre Predoc program. [Email] [GitHub] [CV]"
-  },
-  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
@@ -28,10 +7,59 @@
     "text": "Email: danebrnk@umich.edu\nGitHub"
   },
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Econ 251 — Introductory Econometrics and Statistics Spring 2026 Graduate Student Instructor for Dr. Asenka Asenova.\n\n\nEcon 251 — Introductory Econometrics and Statistics Fall 2025 Graduate Student Instructor for Dr. Asenka Asenova."
+  },
+  {
+    "objectID": "teaching.html#university-of-michigan",
+    "href": "teaching.html#university-of-michigan",
+    "title": "Teaching",
+    "section": "",
+    "text": "Econ 251 — Introductory Econometrics and Statistics Spring 2026 Graduate Student Instructor for Dr. Asenka Asenova.\n\n\nEcon 251 — Introductory Econometrics and Statistics Fall 2025 Graduate Student Instructor for Dr. Asenka Asenova."
+  },
+  {
+    "objectID": "teaching.html#university-of-pretoria",
+    "href": "teaching.html#university-of-pretoria",
+    "title": "Teaching",
+    "section": "University of Pretoria",
+    "text": "University of Pretoria\n\nEKN 214 & 234 — Intermediate Macroeconomics I & II 2018–2019 Teaching Assistant for Dr. Heinrich Bohlmann."
+  },
+  {
+    "objectID": "papers/tfp-manufacturing-sa.html",
+    "href": "papers/tfp-manufacturing-sa.html",
+    "title": "Total factor productivity in South African manufacturing firms 2010–17: CIT-IRP5 panel v4.0",
+    "section": "",
+    "text": "2021-12-01\n\n\n\n\nTotal factor productivity in South African manufacturing firms 2010–17: CIT-IRP5 panel v4.0\nCoauthor: Friedrich Kreuser\nDate: December 1, 2021\nPDF\n\n\nAbstract (click to expand)\n\nWe update Kreuser and Newman’s (2018) total factor productivity estimates for the South African manufacturing sector using administrative data from 2009–17. We use standard implementations of the Ackerberg et al. (2015) and Wooldridge (2009) productivity estimators and introduce an implementation of the former that converges to elasticities inside the unit interval more consistently. Limited productivity growth is found for the period 2010–17, with the majority of variance in sectoral productivity attributable to variance in allocative efficiency. We find that industries that have higher share sales allocated to more productive firms are generally more capital intensive and have significantly higher capital elasticities of output while only having slightly higher labour elasticities of output."
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Works in progress\n\nElectricity Infrastructure and International Trade\nElectricity Infrastructure and Spatial Development with Wei Xiang\nFirm and Worker Effects of an Affirmative Action Labor Market Policy: Evidence from South Africa with Krisztina Orban\n\n\n\nPre-doctoral Work\n\nTotal factor productivity in South African manufacturing firms 2010–17: CIT-IRP5 panel v4.0 with Friedrich Kreuser [Paper]\n\n\n[+abstract]\n\nWe update Kreuser and Newman’s (2018) total factor productivity estimates for the South African manufacturing sector using administrative data from 2009–17. We use standard implementations of the Ackerberg et al. (2015) and Wooldridge (2009) productivity estimators and introduce an implementation of the former that converges to elasticities inside the unit interval more consistently. Limited productivity growth is found for the period 2010–17, with the majority of variance in sectoral productivity attributable to variance in allocative efficiency. We find that industries that have higher share sales allocated to more productive firms are generally more capital intensive and have significantly higher capital elasticities of output while only having slightly higher labour elasticities of output."
+    "text": "Working paper\n\n\n\n\n\nWorking paper\n\n\nwith Wei Xiang\n\n\n\n\n\nWorking paper\n\n\nwith Krisztina Orban"
+  },
+  {
+    "objectID": "research.html#works-in-progress",
+    "href": "research.html#works-in-progress",
+    "title": "Research",
+    "section": "",
+    "text": "Working paper\n\n\n\n\n\nWorking paper\n\n\nwith Wei Xiang\n\n\n\n\n\nWorking paper\n\n\nwith Krisztina Orban"
+  },
+  {
+    "objectID": "research.html#pre-doctoral-work",
+    "href": "research.html#pre-doctoral-work",
+    "title": "Research",
+    "section": "Pre-doctoral work",
+    "text": "Pre-doctoral work\n\n\nTotal factor productivity in South African manufacturing firms 2010–17: CIT-IRP5 panel v4.0\nPre-doctoral\n\n\nwith Friedrich Kreuser\n\n\n Paper\n\n\n\nAbstract\n\nWe update Kreuser and Newman’s (2018) total factor productivity estimates for the South African manufacturing sector using administrative data from 2009–17. We use standard implementations of the Ackerberg et al. (2015) and Wooldridge (2009) productivity estimators and introduce an implementation of the former that converges to elasticities inside the unit interval more consistently. Limited productivity growth is found for the period 2010–17, with the majority of variance in sectoral productivity attributable to variance in allocative efficiency. We find that industries that have higher share sales allocated to more productive firms are generally more capital intensive and have significantly higher capital elasticities of output while only having slightly higher labour elasticities of output."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dane Brink",
+    "section": "",
+    "text": "Dane Brink\nPhD Student in Economics · University of Michigan\nI study international trade, macroeconomics, and spatial economics.\nBefore starting my PhD, I helped build the administrative tax database at the National Treasury of South Africa, in collaboration with the UN, World Bank, and Economic Research Southern Africa. I also spent a year at Yale University as part of the Tobin Center Predoctoral Program.\n\n danebrnk@umich.edu  Curriculum Vitae  GitHub"
   }
 ]
