@@ -1,10 +1,19 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   title: "Dane Brink"
+  description: "PhD student in Economics at the University of Michigan."
+  site-url: "https://danebrink.github.io"
+  open-graph: true
+  twitter-card: true
+  favicon: images/University-of-Michigan.jpg
+
   navbar:
+    pinned: true
     logo: images/University-of-Michigan.jpg
+    logo-alt: "University of Michigan"
     left:
       - text: Home
         href: index.qmd
@@ -12,12 +21,33 @@ website:
         href: research.qmd
       - text: Teaching
         href: teaching.qmd
+    right:
+      - text: CV
+        href: files/Dane_Brink_CV.pdf
+        aria-label: Curriculum Vitae (PDF)
+      - icon: envelope
+        href: mailto:danebrnk@umich.edu
+        aria-label: Email
+      - icon: github
+        href: https://github.com/danebrink
+        aria-label: GitHub
+
+  page-footer:
+    left: "© 2026 Dane Brink"
+    center: "Department of Economics · University of Michigan"
+    right: "Built with [Quarto](https://quarto.org)"
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: [cosmo, theme-light.scss]
+      dark: [darkly, theme-dark.scss]
     css: styles.css
     toc: false
     page-layout: full
     smooth-scroll: true
     link-external-newwindow: true
+    anchor-sections: false
+    fontsize: 1.05rem
+    mainfont: "Source Serif 4, Source Serif Pro, Georgia, serif"
+    monofont: "JetBrains Mono, ui-monospace, SFMono-Regular, monospace"

@@ -1,7 +1,30 @@
 ---
-title: "Home"
+title: ""
+pagetitle: "Dane Brink"
+page-layout: full
 ---
 
-Welcome! I am a PhD student in Economics at the **University of Michigan**. My interests lie in **International Trade, Macroeconomics, and Spatial**. Before starting my PhD, I helped build the [administrative tax database](https://www.treasury.gov.za/research/NT-SDF/default.aspx) at the National Treasury of South Africa, where I worked with the UN, World Bank, and Economic Research Southern Africa. I also spent a year at Yale University as part of the Tobin Centre Predoc program. [[Email](mailto:danebrnk@umich.edu)] [[GitHub](https://github.com/danebrink)] [[CV](files/Dane_Brink_CV.pdf)]
+::: {.hero}
 
-![](images/profile_photo_small.jpg){.home-photo}
+::: {.hero-photo-wrap}
+![](images/profile_photo_small.jpg){.hero-photo fig-alt="Dane Brink"}
+:::
+
+::: {.hero-text}
+# Dane Brink {.hero-name}
+
+[PhD Student in Economics · University of Michigan]{.hero-title}
+
+I study **international trade**, **macroeconomics**, and **spatial economics**.
+
+Before starting my PhD, I helped build the [administrative tax database](https://www.treasury.gov.za/research/NT-SDF/default.aspx) at the National Treasury of South Africa, in collaboration with the UN, World Bank, and Economic Research Southern Africa. I also spent a year at Yale University as part of the [Tobin Center Predoctoral Program](https://tobin.yale.edu/predoctoral-fellowship-program).
+
+::: {.hero-links}
+[<i class="bi bi-envelope-fill"></i> danebrnk@umich.edu](mailto:danebrnk@umich.edu){.hero-btn}
+[<i class="bi bi-file-earmark-pdf-fill"></i> Curriculum Vitae](files/Dane_Brink_CV.pdf){.hero-btn .hero-btn-primary}
+[<i class="bi bi-github"></i> GitHub](https://github.com/danebrink){.hero-btn}
+:::
+
+:::
+
+:::
