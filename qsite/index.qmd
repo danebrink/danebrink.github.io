@@ -15,7 +15,7 @@ page-layout: full
 
 [PhD Student in Economics · University of Michigan]{.hero-title}
 
-I study **international trade**, **macroeconomics**, and **spatial economics**.
+I study international trade, macroeconomics, and spatial economics.
 
 Before starting my PhD, I helped build the [administrative tax database](https://www.treasury.gov.za/research/NT-SDF/default.aspx) at the National Treasury of South Africa, in collaboration with the UN, World Bank, and Economic Research Southern Africa. I also spent a year at Yale University as part of the [Tobin Center Predoctoral Program](https://tobin.yale.edu/predoctoral-fellowship-program).
 
