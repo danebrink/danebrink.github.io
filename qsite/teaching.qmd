@@ -6,6 +6,11 @@ page-layout: full
 ## University of Michigan
 
 ::: {.teach-card}
+**Econ 503 — Master's Course in Probability Theory** [Fall 2026]{.pill .pill-term}<br>
+Graduate Student Instructor for Dr. Asenka Asenova.
+:::
+
+::: {.teach-card}
 **Econ 251 — Introductory Econometrics and Statistics** [Spring 2026]{.pill .pill-term}<br>
 Graduate Student Instructor for Dr. Asenka Asenova.
 :::

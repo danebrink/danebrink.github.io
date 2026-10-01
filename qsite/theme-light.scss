@@ -1,14 +1,31 @@
 /*-- scss:defaults --*/
 
-$body-bg: #faf6ee;
-$body-color: #1f2328;
-$link-color: #8a1538;
-$navbar-bg: #faf6ee;
-$navbar-fg: #1f2328;
-$font-family-sans-serif: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-$headings-font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
-$headings-font-weight: 600;
+$paper: #f3eee4;
+$ink: #1c1a17;
+$accent: #b4380f;
+
+$body-bg: $paper;
+$body-color: $ink;
+$link-color: $accent;
+$navbar-bg: $paper;
+$navbar-fg: $ink;
+$navbar-hl: $accent;
+$footer-bg: $paper;
+$footer-fg: #6f685d;
+$font-family-sans-serif: "Source Serif 4", "Source Serif Pro", Georgia, serif;
+$headings-font-family: "Instrument Serif", Georgia, serif;
+$headings-font-weight: 400;
+$border-radius: 0;
 
 /*-- scss:rules --*/
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap');
+:root {
+  --paper: #{$paper};
+  --paper-2: #e9e2d4;
+  --ink: #{$ink};
+  --ink-2: #4f4a42;
+  --ink-3: #6f685d;
+  --rule: rgba(28, 26, 23, 0.16);
+  --accent: #{$accent};
+  --on-accent: #fff8f0;
+}
