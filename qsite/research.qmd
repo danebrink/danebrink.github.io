@@ -7,18 +7,8 @@ page-layout: full
 
 ::: {.paper-card}
 ::: {.paper-head}
-### Electricity Infrastructure and International Trade
+### Investment in the Dark
 [Working paper]{.pill .pill-wp}
-:::
-:::
-
-::: {.paper-card}
-::: {.paper-head}
-### Electricity Infrastructure and Spatial Development
-[Working paper]{.pill .pill-wp}
-:::
-::: {.paper-meta}
-with [Wei Xiang](https://sites.google.com/view/wei-xiang)
 :::
 :::
 
