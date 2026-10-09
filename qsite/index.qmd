@@ -24,6 +24,7 @@ Before starting my PhD, I helped build the [administrative tax database](https:/
 [<i class="bi bi-envelope-fill"></i> danebrnk@umich.edu](mailto:danebrnk@umich.edu){.hero-btn}
 [<i class="bi bi-file-earmark-pdf-fill"></i> Curriculum Vitae](files/Dane_Brink_CV.pdf){.hero-btn .hero-btn-primary}
 [<i class="bi bi-github"></i> GitHub](https://github.com/danebrink){.hero-btn}
+[<i class="bi bi-person-badge-fill"></i> ORCID](https://orcid.org/0009-0002-9701-1939){.hero-btn}
 :::
 
 :::

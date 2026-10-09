@@ -4,3 +4,4 @@ title: "Contact"
 
 - Email: [danebrnk@umich.edu](mailto:danebrnk@umich.edu)
 - [GitHub](https://github.com/danebrink)
+- [ORCID](https://orcid.org/0009-0002-9701-1939)
